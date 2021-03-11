@@ -1,0 +1,24 @@
+Οι εντολές που εκτελέστηκαν για την παραγωγή των καναλιών είναι οι ακόλουθες:
+
+python channel.py A.txt no_cor.txt
+python channel.py A.txt cor_12.txt
+python channel.py A.txt cor_2.txt
+python channel.py A.txt cor_6_9.txt
+python channel.py B1.txt no_cor.txt
+python channel.py B2.txt no_cor.txt
+python channel.py B2.txt cor_1.txt
+python channel.py C_unbiased.txt cor_1_5.txt
+python channel.py C_same_biased.txt no_cor.txt
+python channel.py C_same_biased.txt cor_1_5.txt
+python channel.py C_different_biased.txt no_cor.txt
+python channel.py C_different_biased.txt cor_1_5.txt
+python channel.py D_unbiased.txt no_cor.txt
+python channel.py D_unbiased.txt cor_1_5.txt
+python channel.py D_same_biased.txt no_cor.txt
+
+
+Τα κανάλια καθώς και οι μετρικές για την περίπτωση Α4 έχουν αποθηκευτεί στον φάκελο outputs. 
+Ο φάκελος graphs περιέχει τους πίνακες γειτνίασης για τους γράφους που χρησιμοποιήθηκαν.
+Ο cor_users περιέχει τα αρχεία με τους corrupted users.
+Στον φάκελο img υπάρχουν οι εικόνες που παρουσιάζονται στο notebook.
+

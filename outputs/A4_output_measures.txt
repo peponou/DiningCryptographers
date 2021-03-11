@@ -1,0 +1,3 @@
+Prior Bayes vulnerability = 0.07692307692307693
+Posterior Bayes vulnerability = 0.38461538461538464
+Multiplicative Bayes leakage = 5.0
